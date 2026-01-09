@@ -1,3 +1,17 @@
 body {
   background: black;
+  color: white;
+}
+footer p {
+  color: black;
+}
+footer {
+  width: 100%;
+  background-color: aqua;
+  max-width: 960px;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
 }
